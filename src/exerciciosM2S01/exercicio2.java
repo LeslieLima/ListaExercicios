@@ -2,7 +2,7 @@ package exerciciosM2S01;
 
 import java.util.Scanner;
 
-public class Ex2 {
+public class exercicio2 {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
 

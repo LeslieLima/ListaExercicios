@@ -9,7 +9,7 @@ import java.util.GregorianCalendar;
 import java.util.Scanner;
 
 
-public class Ex6 {
+public class exercicio6 {
     public static void main(String[] args) throws ParseException {
         DateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
 

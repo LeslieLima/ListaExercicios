@@ -1,4 +1,4 @@
-package exerciciosM2S02.ex1;
+package exerciciosM2S02.exercicio1;
 
 public class TestaData {
 
